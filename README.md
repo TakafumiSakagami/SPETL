@@ -1,3 +1,5 @@
+Approx 76k lines. 
+
 Making changes:
 
 If you are planning to translate a seen, move it into the in-progress TL folder. This prevents people from accidentally translating the same scene.
