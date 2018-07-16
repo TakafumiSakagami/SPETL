@@ -1,4 +1,23 @@
-Approx 76k lines. 
+Kinniku22
+=
+
+Planning stages.
+Approx 76k lines.
+* Rough Seen organization:
+  * 0700: "The Last Page"
+  * 1000: Sumino
+  * 2000: Shigure
+  * 3000: Asahi
+  * 4000: Ouka
+  * 5000: Meiko
+  * 6000: 
+  * 7000: H-scene
+  * 8000: Flashbacks
+  * 9000: Prologues, Endings, Extras
+
+
+Guidelines
+=
 
 Making changes:
 
