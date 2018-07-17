@@ -1,4 +1,23 @@
-Approx 76k lines. 
+Kinniku22
+=
+
+Planning stages.
+Approx 76k lines.
+* Rough Seen organization:
+  * 0700: "The Last Page"
+  * 1000: Sumino
+  * 2000: Shigure
+  * 3000: Asahi
+  * 4000: Ouka
+  * 5000: Meiko
+  * 6000: Prologue
+  * 7000: H-scene
+  * 8000: Flashbacks
+  * 9000: Prologues, Endings, Extras
+
+
+Guidelines
+=
 
 Making changes:
 
@@ -21,8 +40,7 @@ Once you have finished with the scene, you should move it to the QC folder.
 
 Quality Checking:
 
-Look out for any typos, grammar fragments, and confusing sentences. If there is a sentence or phrase that relies heavily on Japanese Culture, note down either in the file or in the forum topic. We can then discuss on how best to explain the cultural reference.
-
+Look out for any typos, fragments, and confusing sentences. If there is a sentence or phrase that relies heavily on Japanese Culture, note it down within the file. We can then discuss on how best to explain the cultural reference.
 
 
 
