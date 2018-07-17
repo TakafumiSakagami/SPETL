@@ -1,7 +1,7 @@
 Kinniku22
 =
 
-Planning stages.
+Start with: SEEN6010.
 Approx 76k lines.
 * Rough Seen organization:
   * 0700: "The Last Page"
