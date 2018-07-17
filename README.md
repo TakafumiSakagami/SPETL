@@ -10,7 +10,7 @@ Approx 76k lines.
   * 3000: Asahi
   * 4000: Ouka
   * 5000: Meiko
-  * 6000: 
+  * 6000: Prologue
   * 7000: H-scene
   * 8000: Flashbacks
   * 9000: Prologues, Endings, Extras
