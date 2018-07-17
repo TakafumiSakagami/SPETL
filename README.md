@@ -1,8 +1,9 @@
 Kinniku22
 =
 
-Start with: SEEN6010.
 Approx 76k lines.
+
+Start with: SEEN6010.
 * Rough Seen organization:
   * 0700: "The Last Page"
   * 1000: Sumino
