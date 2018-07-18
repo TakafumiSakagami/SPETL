@@ -5,7 +5,7 @@ Approx 76k lines.
 
 Start with: SEEN6010.
 * Rough Seen organization:
-  * 0700: "The Last Page"
+  * 0700: "The Previous Page"
   * 1000: Sumino
   * 2000: Shigure
   * 3000: Asahi
